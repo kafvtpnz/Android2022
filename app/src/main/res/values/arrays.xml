@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="choose">
+        <item>@string/hello</item>
+        <item>@string/googby</item>
+    </array>
+
+    <string-array name="catnames">
+        <item>Рыжик</item>
+        <item>Барсик</item>
+        <item>Мурзик</item>
+    </string-array>
+
+    <integer-array name="years">
+        <item>2009</item>
+        <item>2010</item>
+        <item>2011</item>
+    </integer-array>
+
+</resources>
